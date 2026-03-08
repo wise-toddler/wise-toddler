@@ -9,9 +9,9 @@ Dual degree — BS+MS at Scaler, BS CS at BITS Pilani.
 | Platform | Handle | Rating/Rank |
 |----------|--------|-------------|
 | ICPC | — | 2x Regionalist, AIR 75 (2024) |
-| Codeforces | [shivansh27singh](https://codeforces.com/profile/shivansh27singh) | Expert, 1690 max, WR 66 |
-| LeetCode | [shivansh27singh](https://leetcode.com/shivansh27singh) | Guardian, 2175, 900+ solved |
-| CodeChef | — | GR 82 (START151) |
+| Codeforces | [wiseeldrich2004](https://codeforces.com/profile/wiseeldrich2004) | Expert, 1690 max, WR 66 |
+| LeetCode | [wiseeldrich2004](https://leetcode.com/u/wiseeldrich2004/) | Guardian, 2175, 900+ solved |
+| CodeChef | [shivanshsingh5](https://codechef.com/users/shivanshsingh5) | GR 82 (START151) |
 
 ### open source
 
@@ -24,4 +24,4 @@ Dual degree — BS+MS at Scaler, BS CS at BITS Pilani.
 
 ### links
 
-[website](https://shivansh-singh.in) · [linkedin](https://linkedin.com/in/shivansh27singh) · [codeforces](https://codeforces.com/profile/shivansh27singh) · [leetcode](https://leetcode.com/shivansh27singh) · [email](mailto:shivansh275singh@gmail.com)
+[website](https://shivansh-singh.in) · [linkedin](https://linkedin.com/in/shivansh27singh) · [codeforces](https://codeforces.com/profile/wiseeldrich2004) · [leetcode](https://leetcode.com/u/wiseeldrich2004/) · [codechef](https://codechef.com/users/shivanshsingh5) · [email](mailto:shivansh275singh@gmail.com)
